@@ -1,0 +1,19 @@
+[
+{"ID":1,"Tool Material":"Carbide K10: WC-Co series"},
+{"ID":2,"Tool Material":"Carbide P20: WC-Co-TiC series"},
+{"ID":3,"Tool Material":"Ceramics: Al\u2082O\u2083"},
+{"ID":4,"Tool Material":"Coating: Al\u2082O\u2083"},
+{"ID":5,"Tool Material":"Ceramics: Al\u2082O\u2083-TiC"},
+{"ID":6,"Tool Material":"Sintered CBN: CBN"},
+{"ID":7,"Tool Material":"Sintered diamond: C series"},
+{"ID":8,"Tool Material":"Ceramics: Si\u2083N\u2084"},
+{"ID":9,"Tool Material":"Ceramics: Si\u2083N\u2084-9Al\u2082O\u2083"},
+{"ID":10,"Tool Material":"Ceramics: Si\u2083N\u2084-7Al\u2082O\u2083-25SiC"},
+{"ID":11,"Tool Material":"Coating: TiCN"},
+{"ID":12,"Tool Material":"Ceramics: TiCN-30TiB\u2082"},
+{"ID":13,"Tool Material":"Ceramics: TiCN-30TiB\u2082-1TaN"},
+{"ID":14,"Tool Material":"Ceramics: TiCN-30TiB\u2082-1Ta\u2082C"},
+{"ID":15,"Tool Material":"Ceramics: TiB\u2082-30MoSi\u2082 series"},
+{"ID":16,"Tool Material":"Cermet: TiN-TaN"},
+{"ID":17,"Tool Material":"Ceramics: TiN-30TiB\u2082"}
+]
